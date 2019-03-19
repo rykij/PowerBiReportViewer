@@ -1,0 +1,29 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.body-content {
+    margin-top: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+#reportContainer {
+    width: 99%;
+    max-width: 1280px;
+    height: 600px; 
+    margin-left: 4px;
+    margin-right: 4px;  
+    margin-top:15px;
+    margin-bottom:5px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 4px;
+}
